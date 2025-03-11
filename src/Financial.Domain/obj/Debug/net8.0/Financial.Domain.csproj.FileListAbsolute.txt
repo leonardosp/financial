@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\bin\Debug\net8.0\Financial.Domain.deps.json
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\bin\Debug\net8.0\Financial.Domain.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\bin\Debug\net8.0\Financial.Domain.pdb
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\bin\Debug\net8.0\Financial.Cross.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\bin\Debug\net8.0\Financial.Cross.pdb
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.AssemblyInfo.cs
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financia.579A948F.Up2Date
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\refint\Financial.Domain.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\Financial.Domain.pdb
+C:\Users\Leo\source\repos\financial\src\Financial.Domain\obj\Debug\net8.0\ref\Financial.Domain.dll

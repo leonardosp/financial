@@ -1,0 +1,12 @@
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\bin\Debug\net8.0\Financial.Cross.deps.json
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\bin\Debug\net8.0\Financial.Cross.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\bin\Debug\net8.0\Financial.Cross.pdb
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.AssemblyInfo.cs
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\refint\Financial.Cross.dll
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\Financial.Cross.pdb
+C:\Users\Leo\source\repos\financial\src\Financial.Cross\obj\Debug\net8.0\ref\Financial.Cross.dll
