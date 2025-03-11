@@ -22,6 +22,7 @@ public class ClienteCommandHandler : CommandHandler,
 
         _clienteRepository.Adicionar(cliente);
         cliente.AdicionarEvento(new ClienteAdicionadoSolicitaCartaoEvent(cliente.Id, cliente.DataNascimento, cliente.Cpf));
+        cliente.AdicionarEvento(new ClienteAdicionadoSolicitaConsignadoEvent(cliente.Id, cliente.DataNascimento, cliente.Cpf));
 
         return await PersistirDados(_clienteRepository.UnitOfWork);
     }
